@@ -1,5 +1,9 @@
 
-# Metin şifreleme ve şifre çözme programı
+# Sifreleme-programi
+
+KLU ALGORİTMA VE PROGRAMLAMA DERSİ 1. KISA SINAV 2. BÖLÜM
+
+GİRİŞ
 
 Bu c programı basit bir şifreleme ve şifre çözme uygulamasıdır.
 Bir mesaj ve kaydırma değeri alıp mesajı şifreler ve sonrasında şifresini çözer.
