@@ -26,6 +26,12 @@ input:
 The quick brown fox
 jumps over the lazy dog
 
+ÖDEVİ YAPANLAR
+
+Recep Efe Eren 1230505035
+Arda Coşkun 1230505008
+
+
 
 
 
